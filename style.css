@@ -1,0 +1,84 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+.sectionLight{
+    background-color: lightgray;
+}
+.sectionLight-2{
+    background-color: lightgray;
+  
+}
+.image-txt{
+    color: lightseagreen;
+}
+.sectionDark{
+    background-color: white; 
+}
+.row{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.cool-button{
+    display: block;
+    margin: auto;
+    background-color: red;
+    color: white;
+}
+.cool-button-2{
+    display: block;
+    margin: auto;
+    background-color:lightseagreen;
+    color: white;
+}
+.modal-title{
+    margin: auto;
+}
+.imageTransfer{
+    display: block;
+    margin: auto;
+}
+.change-img{
+    display: block;
+    margin: auto;
+}
+.container-fluid{
+    padding:0%;
+    margin: 0%;
+}
+.sizeRow{
+    margin: 0 0 0 15px;
+}
+.paragraphPadding{
+    padding-top: 10px;
+}
+.footer-style{
+    background-color: lightslategrey;
+    margin: auto;
+}
+ul.ul-style{
+    list-style: none;
+    padding: 0%;
+}
+.float-list{
+    float: left;
+    color: white;
+    margin:0 0 5px 0;
+} 
+a.anchor-tag{
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;   
+}
+iframe.modal-style{
+    width:100%;
+}
+img.float-list1{
+    float: left;
+    margin: 5px;
+} 
+.favicon{
+   display: block;
+   margin: auto;
+}
