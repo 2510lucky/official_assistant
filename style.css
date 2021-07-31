@@ -82,3 +82,9 @@ img.float-list1{
    display: block;
    margin: auto;
 }
+a.anchor-tag-for-links{
+    text-decoration: none;
+    color: green;
+    display: block;
+    text-align: center;   
+}
